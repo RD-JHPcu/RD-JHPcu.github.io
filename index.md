@@ -46,9 +46,9 @@
 
 # 관련 이미지 & 동영상
 - 이미지
-<img src="./img/image001.jpg">
-<img src="./img/image002.jpg">
-<img src="./img/image003.jpg">
+<img src="./img/image001.jpg" width = 450, height = 450>
+<img src="./img/image002.jpg" width = 450, height = 450>
+<img src="./img/image003.jpg" width = 450, height = 450>
 
 - 동영상
 [![vue](./img/image001.jpg)](https://www.youtube.com/watch?v=_zbyegfkatI)
