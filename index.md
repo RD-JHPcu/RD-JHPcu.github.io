@@ -46,9 +46,10 @@
 
 # 관련 이미지 & 동영상
 - 이미지
-<img src="./img/image001.jpg" width = 600, height = 450>
-<img src="./img/image002.jpg" width = 600, height = 450>
-<img src="./img/image003.jpg" width = 600, height = 450>
+<img src="./img/image001.jpg">
+<img src="./img/image002.jpg">
+<img src="./img/image003.jpg">
+
 
 - 동영상
 [![Vue](./img/image001.jpg)](https://www.youtube.com/watch?v=_zbyegfkatI)
