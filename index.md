@@ -51,8 +51,8 @@
 <img src="./img/image003.jpg" width = 600, height = 450>
 
 - 동영상
-[![001](./img/image001.jpg)](https://www.youtube.com/watch?v=_zbyegfkatI)
-[![002](./img/image002.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
+[![Vue](./img/image001.jpg)](https://www.youtube.com/watch?v=_zbyegfkatI)
+[![Vue](./img/image002.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
 
 <br>
 
