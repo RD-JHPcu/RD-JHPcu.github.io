@@ -51,8 +51,8 @@
 <img src="./img/image003.jpg" width = 600, height = 450>
 
 - 동영상
-[![vue](./img/image001.jpg)](https://www.youtube.com/watch?v=_zbyegfkatI)
-[![vue](./img/image002.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
+[![vue](./img/image001.jpg) width = 600, height = 450](https://www.youtube.com/watch?v=_zbyegfkatI)
+[![vue](./img/image002.jpg) width = 600, height = 450](https://www.youtube.com/watch?v=ac7tz6wOc_g)
 
 <br>
 
