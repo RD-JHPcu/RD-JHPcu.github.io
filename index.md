@@ -142,7 +142,7 @@
 
 ### 게임 루프
 ---
-<img src="./img/GameLoop1.png" width="300">
+<img src="./img/GameLoop1.PNG">
 <br>
 
 ## 매커니즘
