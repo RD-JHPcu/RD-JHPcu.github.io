@@ -102,15 +102,15 @@
 
 ### 타워의 종류
 1. Type A - 자동포탑
-<img src="./img/Atypetower.png" width="200", height="200">
+<img src="./img/Atypetower.png" width="300">
 - 근, 중거리 대상 타깃이며 단일 상대에게 데미지를 준다.
 
 2. Type B - 보병
-<img src="./img/Btypetower.png" width="200", height="200">
+<img src="./img/Btypetower.png" width="300">
 - 근거리 대상 타깃. 한 개의 타워에 여러명이 있는 형태로 다수를 공격하거나, 한 명의 적을 온 할 경우 집중 공격을 한다. 각각의 데미지는 약하다.
 
 3. Type C - 전차
-<img src="./img/Ctypetower.png" width="200", height="200">
+<img src="./img/Ctypetower.png" width="300">
 - 원거리 대상 타깃. 공격속도가 느리나 데미지가 강하다.
 <br>
 
