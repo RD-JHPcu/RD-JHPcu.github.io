@@ -177,7 +177,7 @@
 
 <br><br>
 
-# Game System Disign
+# Game System Design
 
 ## 1. 게임 오브젝트 분해 [구성 요소 분석]
 
