@@ -100,7 +100,7 @@
 <br>
 
 
-# Random Defense 구성 요소
+## Random Defense 구성 요소
 
 <br>
 
