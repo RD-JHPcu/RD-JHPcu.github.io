@@ -10,7 +10,7 @@
 4. [Random Defense](#Random-Defense-구성-요소)   
  1.[ 구성요소](#구성요소)  
  2.[ 매커니즘](#매커니즘)  
-5. [Game System Design](#Game-System-Disign)  
+5. [Game System Design](#Game-System-Design)  
  1.[ 게임 오브젝트 분해](#1-게임-오브젝트-분해-구성-요소-분석)  
  2.[ 파라미터[속성] 뽑아보기](#2-파라미터속성-뽑아보기)  
  3.[ 행동양식](#3-행동양식)  
