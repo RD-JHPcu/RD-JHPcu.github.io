@@ -5,7 +5,8 @@
 **1-2주차 동영상**
 <br>
 [1-2주차](files/RD_2Week.mp4)
-![2week](https://user-images.githubusercontent.com/71679902/97938724-7f833480-1dc5-11eb-82f5-7a2b9a4ebc98.gif)
+![2week](https://user-images.githubusercontent.com/71679902/97938977-29fb5780-1dc6-11eb-9a46-5303d842a99a.gif)
+
 
 ---
 ### 1주차
