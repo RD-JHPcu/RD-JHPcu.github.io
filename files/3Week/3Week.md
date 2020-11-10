@@ -4,7 +4,7 @@
 
 **3주차 동영상**
 <br>
-[3주차](files/RD_3Week.mp4)
+[3주차](files/3Week/RD_3Week.mp4)
 
 
 ---
