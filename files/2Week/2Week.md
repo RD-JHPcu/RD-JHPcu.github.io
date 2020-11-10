@@ -6,6 +6,13 @@
 <br>
 [1-2주차](files/2Week/RD_2Week.mp4)
 ![2week](https://user-images.githubusercontent.com/71679902/97938977-29fb5780-1dc6-11eb-9a46-5303d842a99a.gif)
+<video controls width="640" height="480">
+
+    <source src="files/2Week/RD_2Week.mp4" type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+
+</video>
 
 
 ---
