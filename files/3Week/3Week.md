@@ -5,12 +5,9 @@
 **3주차 동영상**
 <br>
 [3주차](files/3Week/RD_3Week.mp4)
-[asdf]<video controls width="640" height="480">
-
-    <source src="files/3Week/RD_3Week.mp4" type="video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
-
+<video controls width="640" height="480">
+<source src="files/3Week/RD_3Week.mp4" type="video/mp4">
+Sorry, your browser doesn't support embedded videos.
 </video>
 
 
