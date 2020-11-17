@@ -1,8 +1,8 @@
 
-## 3주차 개발 일지
+## 4주차 개발 일지
 ---
 
-**3주차 동영상**
+**4주차 동영상**
 <br>
 [4주차](files/4Week/RD_4Week.mp4)
 <video controls width="640" height="480">
