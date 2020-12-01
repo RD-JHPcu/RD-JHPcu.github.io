@@ -29,6 +29,7 @@
  2.[ 3주차 개발 일지](files/3Week/3Week.md)  
  3.[ 4주차 개발 일지](files/4Week/4Week.md)  
  4.[ 5주차 개발 일지](files/5Week/5Week.md)  
+ 5.[ 6주차 개발 일지](files/6Week/6Week.md)
 
 
 
