@@ -10,6 +10,8 @@
   Sorry, your browser doesn't support embedded videos.
 </video>
 
+![4gif](https://user-images.githubusercontent.com/71679902/101379770-ff864800-38f7-11eb-9160-bbcb50b607a0.gif)
+
 
 ---
 ### 4주차
