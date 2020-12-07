@@ -9,6 +9,7 @@
   Sorry, your browser doesn't support embedded videos.
 </video>
 
+![6gif](https://user-images.githubusercontent.com/71679902/101379781-02813880-38f8-11eb-8bbf-b80341f73624.gif)
 
 ---
 ### 6주차
