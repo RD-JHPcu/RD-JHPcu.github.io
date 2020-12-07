@@ -482,7 +482,7 @@
 
 <br>
 
-##[개발일지]
+## [개발일지]  
  1.[ 1-2주차 개발 일지](files/2Week/2Week.md)  
  2.[ 3주차 개발 일지](files/3Week/3Week.md)  
  3.[ 4주차 개발 일지](files/4Week/4Week.md)  
